@@ -21,10 +21,12 @@ A simple room messaging app created using Flutter and Dart.
 <img src="https://github.com/user-attachments/assets/3fd2659b-5977-41f7-91ba-afc82dec5743"  width="320">
 
 **Users can comment in rooms, and other users can like these comments. The comment owner will receive a notification.**
-![commenter](https://github.com/user-attachments/assets/9ce284aa-861d-4ba0-ba9f-6738c50817dd)![liker](https://github.com/user-attachments/assets/4118803b-1177-4d23-b36d-7db6ba058ed1)
+<br/>
+<img src="https://github.com/user-attachments/assets/9ce284aa-861d-4ba0-ba9f-6738c50817dd"  width="320"> <img src="https://github.com/user-attachments/assets/4118803b-1177-4d23-b36d-7db6ba058ed1"  width="320">
 
 **Profile Page**
-![profile](https://github.com/user-attachments/assets/6c579653-4bbe-4ae0-a45b-0e2eaade2301)
+<br/>
+<img src="https://github.com/user-attachments/assets/6c579653-4bbe-4ae0-a45b-0e2eaade2301"  width="320">
 
 # App Architecture
 
