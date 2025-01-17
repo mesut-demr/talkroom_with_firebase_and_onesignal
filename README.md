@@ -1,8 +1,6 @@
 # TalkRoom with Firebase and OneSignal
 
-![Flutter Logo](https://img.icons8.com/?size=48&id=7I3BjCqe9rjG&format=png) 3.27.1
-
-![Firebase Logo](https://img.icons8.com/?size=48&id=62452&format=png)  ![OneSignal Logo](https://img.icons8.com/?size=48&id=LEgCLBzQop5Z&format=png) 
+![Flutter Logo](https://img.icons8.com/?size=48&id=7I3BjCqe9rjG&format=png) 3.27.1 ![Firebase Logo](https://img.icons8.com/?size=48&id=62452&format=png)  ![OneSignal Logo](https://img.icons8.com/?size=48&id=LEgCLBzQop5Z&format=png) 
 
 A simple room messaging app created using Flutter and Dart.
 
