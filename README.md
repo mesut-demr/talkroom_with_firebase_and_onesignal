@@ -2,7 +2,7 @@
 
 ![Flutter Logo](https://img.icons8.com/?size=48&id=7I3BjCqe9rjG&format=png) 3.27.1
 
-![Firebase Logo]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuawUuQCcq6fD-KpdmL4QixUOyqQqdrVNIDg&s](https://img.icons8.com/?size=48&id=62452&format=png))  ![OneSignal Logo]([https://onesignal.com/blog/content/images/2023/02/OneSignal-Logo-1.png](https://img.icons8.com/?size=48&id=LEgCLBzQop5Z&format=png)) 
+![Firebase Logo](https://img.icons8.com/?size=48&id=62452&format=png)  ![OneSignal Logo](https://img.icons8.com/?size=48&id=LEgCLBzQop5Z&format=png) 
 
 A simple room messaging app created using Flutter and Dart.
 
