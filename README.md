@@ -22,7 +22,7 @@ A simple room messaging app created using Flutter and Dart.
 
 **Users can comment in rooms, and other users can like these comments. The comment owner will receive a notification.**
 <br/>
-<img src="https://github.com/user-attachments/assets/9ce284aa-861d-4ba0-ba9f-6738c50817dd"  width="320"> <img src="https://github.com/user-attachments/assets/4118803b-1177-4d23-b36d-7db6ba058ed1"  width="320">
+<img src="https://github.com/user-attachments/assets/9ce284aa-861d-4ba0-ba9f-6738c50817dd"  width="320">&nbsp;<img src="https://github.com/user-attachments/assets/4118803b-1177-4d23-b36d-7db6ba058ed1"  width="320">
 
 **Profile Page**
 <br/>
