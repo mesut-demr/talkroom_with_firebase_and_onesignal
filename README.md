@@ -5,16 +5,20 @@
 A simple room messaging app created using Flutter and Dart.
 
 **Requesting notification permission from users when entering the app for OneSignal.**
+<br/>
 <img src="https://github.com/user-attachments/assets/9ecc1e06-b039-49de-b4bf-875d1e7c158a"  width="320">
 
 **Users can register with a normal email and password or register using Google Authentication when entering the app.**
+<br/>
 <img src="https://github.com/user-attachments/assets/d12df783-84b4-4516-8e6a-8623767e1d96"  width="320"> <img src="https://github.com/user-attachments/assets/67584f26-b9cb-4cf8-a8a9-08a4a4e942c0"  width="320">
 
 **The login page for users.**
-![login](https://github.com/user-attachments/assets/541447b4-0a53-4bed-8e1b-60059698bb94)
+<br/>
+<img src="https://github.com/user-attachments/assets/541447b4-0a53-4bed-8e1b-60059698bb94"  width="320">
 
 **Users can create rooms.**
-![add_room](https://github.com/user-attachments/assets/3fd2659b-5977-41f7-91ba-afc82dec5743)
+<br/>
+<img src="https://github.com/user-attachments/assets/3fd2659b-5977-41f7-91ba-afc82dec5743"  width="320">
 
 **Users can comment in rooms, and other users can like these comments. The comment owner will receive a notification.**
 ![commenter](https://github.com/user-attachments/assets/9ce284aa-861d-4ba0-ba9f-6738c50817dd)![liker](https://github.com/user-attachments/assets/4118803b-1177-4d23-b36d-7db6ba058ed1)
