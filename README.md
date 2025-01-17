@@ -5,10 +5,10 @@
 A simple room messaging app created using Flutter and Dart.
 
 **Requesting notification permission from users when entering the app for OneSignal.**
- ![notification_permission](https://github.com/user-attachments/assets/9ecc1e06-b039-49de-b4bf-875d1e7c158a)
+<img src="https://github.com/user-attachments/assets/9ecc1e06-b039-49de-b4bf-875d1e7c158a"  width="320">
 
 **Users can register with a normal email and password or register using Google Authentication when entering the app.**
-![register](https://github.com/user-attachments/assets/d12df783-84b4-4516-8e6a-8623767e1d96)![google_authentication](https://github.com/user-attachments/assets/67584f26-b9cb-4cf8-a8a9-08a4a4e942c0)
+<img src="https://github.com/user-attachments/assets/d12df783-84b4-4516-8e6a-8623767e1d96"  width="320"> <img src="https://github.com/user-attachments/assets/67584f26-b9cb-4cf8-a8a9-08a4a4e942c0"  width="320">
 
 **The login page for users.**
 ![login](https://github.com/user-attachments/assets/541447b4-0a53-4bed-8e1b-60059698bb94)
